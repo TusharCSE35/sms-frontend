@@ -87,7 +87,7 @@ export default function StudentDetailsPage() {
         <div className="mx-auto max-w-3xl">
             <Link
                 href="/students"
-                className="mb-5 inline-flex items-center gap-1.5 text-sm font-medium text-slate-500 transition-colors hover:text-indigo-600"
+                className="mb-5 inline-flex items-center gap-1.5 text-sm font-medium text-slate-500 text-white hover:text-indigo-600"
             >
                 <svg
                     viewBox="0 0 24 24"
